@@ -7,6 +7,7 @@ See every change live in REAPER, drawn with real JSFX pixels.
 It's a free desktop app for Windows, macOS and Linux.
 
 ![Facelift main window](assets/facelift-main.png)
+
 *Facelift building the Phoenix face, with the Constructor live preview in the middle.*
 
 ## Who it's for
@@ -26,9 +27,11 @@ It's a free desktop app for Windows, macOS and Linux.
 7. Click **SHIP** to export one `.jsfx` with everything inside, ready to share.
 
 ![Importing a JSFX plugin](assets/import-jsfx.png)
+
 *Importing a plugin: Facelift lists its sliders and keeps your face when the plugin updates.*
 
 ![The SHIP card](assets/ship-card.png)
+
 *Shipping a plugin: the SHIP card holds the file name, credits, versions and licenses.*
 
 ## Parts you can use
