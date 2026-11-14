@@ -77,6 +77,6 @@ No internet connection is needed.
 
 ## How it was built
 
-Built over 4 months in C#, .NET and Avalonia, with AI coding tools.
+Andy Rx: Built over 4 months in C#, .NET and Avalonia, with AI coding tools.
 Every change went through tests, checks and my own review.
 Every decision is mine: my taste, my vision, my architecture.
