@@ -44,8 +44,8 @@ Every control can also get:
 
 ## Example: JClones Phoenix
 
-The free [JClones](https://github.com/JClones/JSFXClones) plugins had no GUI.
-Here is Phoenix, a tape saturation plugin, with a face built in Facelift.
+Most of the free [JClones](https://github.com/JClones/JSFXClones) plugins have no GUI.
+Here is Phoenix, a tape saturation plugin, with a second face built in Facelift.
 
 ![JClones Phoenix with a Facelift face](assets/phoenix-facelift.png)
 
