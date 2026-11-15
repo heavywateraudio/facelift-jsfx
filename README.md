@@ -63,6 +63,7 @@ Added with Facelift:
 ## More plugins with a Facelift face
 
 - [CNF Console Noise Floor](https://github.com/heavywateraudio/cnf-jsfx): the quiet hiss of an analog mixing console, by Heavy Water Audio.
+- [JClones CA2A Facelift](https://github.com/heavywateraudio/JClones-Facelift/blob/master/JClones_CA2A_Facelift.md): a leveling compressor, with a new face, meters and keyboard keys.
 
 ## Download
 
