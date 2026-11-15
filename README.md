@@ -60,6 +60,10 @@ Added with Facelift:
 
 [See the Phoenix page and download it](https://github.com/heavywateraudio/JClones-Facelift/blob/master/JClones_Phoenix_Facelift.md).
 
+## More plugins with a Facelift face
+
+- [CNF Console Noise Floor](https://github.com/heavywateraudio/cnf-jsfx): the quiet hiss of an analog mixing console, by Heavy Water Audio.
+
 ## Download
 
 **Free release:** Coming soon
