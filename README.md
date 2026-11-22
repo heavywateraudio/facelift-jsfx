@@ -19,8 +19,8 @@ It's a free desktop app for Windows, macOS and Linux.
 ## How it works
 
 1. Install and open Facelift.
-2. Open REAPER and run the included `Facelift_Bridge.lua` script.
-3. Put the included `Facelift_Preview.jsfx` on a track.
+2. Open REAPER and run the included `Facelift_Reaper_Bridge.lua` script.
+3. Put **Facelift Live Preview** on a track. The Bridge script creates this plugin for you.
 4. In Facelift, import any JSFX plugin. Facelift finds its sliders and binds to parts.
 5. Add parts to the face, then place, color and name them.
 6. Watch every change in REAPER as you make it.
@@ -77,12 +77,12 @@ No internet connection is needed.
 ## Runs on
 
 - Windows, macOS and Linux.
-- Needs .NET. The installer adds it if it's missing.
+- .NET comes inside the app, so you don't need to install it.
 - Needs REAPER for the live preview.
 
 ## Updates and bug reports
 
-- **Help > Check for updates** opens the latest release here.
+- New versions are posted on the [releases page](https://github.com/heavywateraudio/facelift-jsfx/releases).
 - **Help > Generate bug report** makes a `bug-report.txt`.
 
 ## How it was built
