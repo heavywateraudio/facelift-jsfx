@@ -64,6 +64,8 @@ Added with Facelift:
 
 - [CNF Console Noise Floor](https://github.com/heavywateraudio/cnf-jsfx): the quiet hiss of an analog mixing console, by Heavy Water Audio.
 - [JClones CA2A Facelift](https://github.com/heavywateraudio/JClones-Facelift/blob/master/JClones_CA2A_Facelift.md): a leveling compressor, with a new face, meters and keyboard keys.
+- [JClones Phoenix Facelift](https://github.com/heavywateraudio/JClones-Facelift/blob/master/JClones_Phoenix_Facelift.md): tape saturation, with a new face, meters and keyboard keys.
+- [JClones L2 Facelift](https://github.com/heavywateraudio/JClones-Facelift/blob/master/JClones_L2_Facelift.md): a brickwall limiter, with a new face, an Attenuation meter and keyboard keys.
 
 ## Download
 
