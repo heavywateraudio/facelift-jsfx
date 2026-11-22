@@ -88,3 +88,9 @@ No internet connection is needed.
 Andy Rx: Built over 4 months in C#, .NET and Avalonia, with AI coding tools.
 Every change went through tests, checks and my own review.
 Every decision is mine: my taste, my vision, my architecture.
+
+## License
+
+Facelift is free to use, including for commercial work.
+You may sell the plugins you make with it.
+Read the full [Facelift License](LICENSE.md).
